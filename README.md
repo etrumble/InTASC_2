@@ -1,5 +1,9 @@
 <p>The teacher uses understanding of individual differences and idverse cultures and communities to ensure inclusive learning environments that allow each learner to reach his/her full potential.</p>
 <h4>PDFs</h4>
+<p><a href="InTASC%202%2010.2%20Evaluating%20Expressions%20LP.pdf">InTASC 2 Lesson Plan</a></p>
+<p><a href="10.2%20Expressions%20Chart.pdf">Expressions Chart</a></p>
+<p><a href="10.2%20Desk%20work%20questions.pdf">Group work quetions</a></p>
+<p><a href="InTASC%202%20reflection%20final.pdf">InTASC 2 Reflection</a></p>
 
 <p>Abstract: This portfolio entry includes a lesson plan full of differentiation about evaluating expressions. Homogeneous and heterogeneous grouping is a large part of the differentiation in this lesson implementation, as well as giving options according to the comfort level of students. </p>
 <h3 align="center">InTASC 2 Reflection</h3>
