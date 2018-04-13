@@ -13,3 +13,15 @@
 <p>In the lesson plan, the next activity is the creation of a word problem. Unfortunately we did not have enough time for this part of the lesson plan during execution, but if we had there would have been some differentiation. Writing word problems and being creative is easy for some students, and hard for others. Therefore I would have written a few word problems and projected them on the board as a model of what I wanted theirs to look like, as well as giving them the option of simply changing names, actions, and numbers of the ones I had already written if they chose to.</p>
 <p>As a closure of evaluating expressions, in reflection for future implementations of this lesson when students get into their corners of G, U, or S this could be homogeneous grouping and students in U or S could ask S students questions they have. It would be wonderful if students from the same group had the answers, but confident students would be able to answer as well. Overall, this lesson was a fantastic success for students practicing evaluation of expressions and for the teachers in differentiation.</p>
 
+
+<h2 align="center">Portfolio Entries</h2>
+<p align="center"><a href="https://etrumble.github.io/Emily-Trumble-Portfolio/">Introduction</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_1/">InTASC 1</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_2/">InTASC 2</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_3/">InTASC 3</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_4/">InTASC 4</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_5/">InTASC 5</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_7/">InTASC 7</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_8/">InTASC 8</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_10/">InTASC 10</a></p>
+<p align="center"><a href="https://etrumble.github.io/Technology_Standard/">Technology Standard</a></p>
